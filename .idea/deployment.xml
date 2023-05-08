@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Shaoshuo@10.15.201.88:14222" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="Shaoshuo@10.15.201.88:14222">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/Shaoshuo/Pytorch-FL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Shaoshuo@10.15.201.88:14222 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/Shaoshuo/Pytorch-FL" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
